@@ -9,7 +9,7 @@
 .<img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="html-logo"/>
 <br>
 <br>
-.<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+.<img  src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css-logo"/>
 
 <br>
 <br>
