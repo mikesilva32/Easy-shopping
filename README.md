@@ -14,3 +14,6 @@
 <br>
 <br>
 <img src="https://github.com/mikesilva32/Easy-shopping/blob/main/assets/Desktop.png?raw=true"/>
+<br>
+<br>
+<img src="https://github.com/mikesilva32/Easy-shopping/blob/main/assets/Mobie.png?raw=true"/>
