@@ -6,7 +6,7 @@
 <br>
 <h2>Tecnologias Utilizadas</h2>
 <br>
-.<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+.<img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="html-logo"/>
 <br>
 <br>
 .<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
