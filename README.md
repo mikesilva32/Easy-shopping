@@ -13,7 +13,6 @@
 
 <br>
 <br>
-<img src="https://github.com/mikesilva32/Easy-shopping/blob/main/assets/Desktop.png?raw=true"/>
-<br>
-<br>
-<img src="https://github.com/mikesilva32/Easy-shopping/blob/main/assets/Mobie.png?raw=true"/>
+<img src="https://github.com/mikesilva32/Easy-shopping/blob/110538b0600357cec41fe8824cada29a21130462/assets/ChatGPT%20Image%2020%20de%20jun.png"/>
+
+
